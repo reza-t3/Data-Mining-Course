@@ -1,2 +1,2 @@
 # Data-Mining-Course
-Data Mining projects and assingments at University of Tehran with R
+Data Mining projects and assingments with R at University of Tehran 
